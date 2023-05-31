@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "BookmarksOrderer",
+  "description": "Put your bookmarks in order!",
+  "permissions": ["bookmarks"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
